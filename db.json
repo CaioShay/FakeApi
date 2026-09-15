@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "username": "Conta1",
+      "password":1234
+    }
+  ]
+}
